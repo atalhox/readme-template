@@ -89,8 +89,8 @@ Faço uso do [SemVer](http://semver.org/) para controle de versão.
 
 Eu sou o Luis Felipe Brum, desenvolvedor Backend, com experiência em segurança da informação e arquitetura de integração. 
 
-<a href="https://www.felipebrum.com"><img src="https://avatars.githubusercontent.com/u/53919226?s=96&v=4"  width="40"> <a href="https://www.linkedin.com/luisfelipebrum"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1661092469~hmac=4ffd8a85a8ee60223dc64ca62b9da2a5"  width="40">      <a href="https://www.instagram.com/eunaoeradev"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"  width="40">  <a href="https://www.tiktok.com/@eunaoeradev"><img src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938055.png?token=exp=1661093104~hmac=8311689adbc8fcd81b64a595a8034829"  width="40">
-
+<a href="https://www.felipebrum.com"><img src="https://avatars.githubusercontent.com/u/53919226"  width="40"> <a href="https://br.linkedin.com/in/luisfelipebrum"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="40">      <a href="https://www.instagram.com/eunaoeradev"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"  width="40">  <a href="https://www.tiktok.com/@eunaoeradev"><img src="https://i.pinimg.com/originals/22/0a/62/220a624ba2fa59ddda4db763f474f50f.jpg"  width="40">
+  
 ## Colaboradores
 
 Listar aqui todos os colaboradores deste projeto.
