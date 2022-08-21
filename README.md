@@ -1,91 +1,99 @@
 # Título do projeto
 
-Um parágrafo da descrição do projeto vai aqui
+Todo projeto deverá responder às seguintes perguntas do 5W2H:
 
-## 🚀 Começando
+* What (o que será feito?)
+* Why (por que será feito?)
+* Where (onde será feito?)
+* When (quando será feito?)
+* Who (por quem será feito?)
+* How (como será feito?)
+* How much(quanto vai custar?)
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+## Casos de Uso
+Explique com mais detalhes como a sua aplicação poderia ser utilizada.
 
-Consulte **Implantação** para saber como implantar o projeto.
+Exemplo
+> Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
 
-### 📋 Pré-requisitos
+## Por onde começar
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+Para que você obtenha uma cópia do projeto em sua máquina local, você poderá fazer uma cópia através de um [clone](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository). 
 
+## Pré-requisitos
+
+Aqui apresente as principais ferramentas e versões necessárias para o bom funcionamento do seu projeto. 
+
+**Exemplo**
+| Ferramenta   | Versão suportada |
+|--------------|:----------------:|
+| MySQL Server |        5.7       |
+| Node.js      |      17.0.0      |
+
+Apresente uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução. SEMPRE colocar o link de documentação oficial. 
+
+### Exemplo de Instação - MySQL Server
+
+Para instalar o MySQL Server faça a instalação conforme a [documentação oficial](https://dev.mysql.com/doc/refman/5.7/en/installing.html). 
+
+## Desenvolvimento
+
+Apresentar detalhes de implementação. 
+
+### Configurando ambiente
+
+Apresentar detalhes de configuração. 
+```javascript
+ENVIRONMENT="dev"
 ```
-Dar exemplos
+
+## Uso da aplicação
+
+Dar exemplos de como executar a aplicação após a instalação. 
+
+**Exemplo**
+```powershell
+node index.js
 ```
 
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
+## Testes automatizados
 
 Explicar como executar os testes automatizados para este sistema.
 
-### 🔩 Analise os testes de ponta a ponta
+### Como executar os testes
 
-Explique que eles verificam esses testes e porquê.
+Apresente testes unitários e de integração.
 
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
+**Exemplo**
+```powershell
+npm test
 ```
 
-## 📦 Desenvolvimento
+## Frameworks utilizados
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
-
-## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
+Mencione os frameworks e ferramentas que você utilizou para criar seu projeto.
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
 * [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
 
-## 🖇️ Colaborando
+## Como colaborar
 
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+Por favor, [colabore](https://gist.github.com/atalhox/adb28140d9c08ce4d2b3ea6ddbe21c63) para obter detalhes sobre o meu processo para nos enviar pedidos de solicitação.
 
-## 📌 Versão
+## Versão
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+Faço uso do [SemVer](http://semver.org/) para controle de versão.
 
-## ✒️ Autores
+## Autor
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Eu sou o Luis Felipe Brum, desenvolvedor Backend, com experiência em segurança da informação e arquitetura de integração. 
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+<a href="https://www.felipebrum.com"><img src="https://avatars.githubusercontent.com/u/53919226?s=96&v=4"  width="40"> <a href="https://www.linkedin.com/luisfelipebrum"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1661092469~hmac=4ffd8a85a8ee60223dc64ca62b9da2a5"  width="40">      <a href="https://www.instagram.com/eunaoeradev"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"  width="40">  <a href="https://www.tiktok.com/@eunaoeradev"><img src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938055.png?token=exp=1661093104~hmac=8311689adbc8fcd81b64a595a8034829"  width="40">
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+## Colaboradores
 
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Listar aqui todos os colaboradores deste projeto.
 
 ## 🎁 Expressões de gratidão
 
