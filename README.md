@@ -13,9 +13,6 @@ Todo projeto deverá responder às seguintes perguntas do 5W2H:
 ## Casos de Uso
 Explique com mais detalhes como a sua aplicação poderia ser utilizada.
 
-Exemplo
-> Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
-
 ## Por onde começar
 
 Para que você obtenha uma cópia do projeto em sua máquina local, você poderá fazer uma cópia através de um [clone](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository). 
