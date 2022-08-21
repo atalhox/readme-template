@@ -74,6 +74,10 @@ Mencione os frameworks e ferramentas que você utilizou para criar seu projeto.
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
 * [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
 
+## To-do
+
+Escreva novas funcionalidades que ainda deverão ser implementadas. 
+
 ## Como colaborar
 
 Por favor, [colabore](https://gist.github.com/atalhox/adb28140d9c08ce4d2b3ea6ddbe21c63) para obter detalhes sobre o meu processo para nos enviar pedidos de solicitação.
