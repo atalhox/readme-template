@@ -29,9 +29,13 @@ Aqui apresente as principais ferramentas e versões necessárias para o bom func
 
 Apresente uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução. SEMPRE colocar o link de documentação oficial. 
 
-### Exemplo de Instação - MySQL Server
+### Instação - MySQL Server
 
 Para instalar o MySQL Server faça a instalação conforme a [documentação oficial](https://dev.mysql.com/doc/refman/5.7/en/installing.html). 
+
+### Instação - Python3
+
+Para instalar o MySQL Server faça a instalação conforme a [documentação oficial](https://www.python.org/downloads). 
 
 ## Desenvolvimento
 
