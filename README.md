@@ -63,7 +63,7 @@ Mencione os frameworks e ferramentas que você utilizou para criar seu projeto.
 
 ## To-do
 
-As seguintes funcionalidades ainda poderão ser implementadas: 
+As seguintes funcionalidades ainda poderão ser implementadas:
 
 * Funcionalidade 1;
 * Funcionalidade 2;
