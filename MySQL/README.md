@@ -1,5 +1,7 @@
 # MySQL Installation
 
+Instalação e configuração de um banco de dados MySQL através de docker. 
+
 ## Pré-requisitos
 
 | Ferramenta  | Versão  |
