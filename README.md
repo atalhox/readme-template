@@ -16,7 +16,9 @@ O problema "XXXXXXXXXX" surgiu quando o usuário sentiu a necessidade de realiza
 
 Para que você obtenha uma cópia do projeto em sua máquina local, você poderá fazer uma cópia através de um [clone](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository).
 
-## Pré-requisitos
+Certifique-se de configurar o seu ambiente com as ferramentas, linguagens e frameworks utilizados. **Recomenda-se** o uso das versões utilizadas na matriz de compatibilidade. 
+
+## Matriz de compatibilidade
 
 | Ferramenta   | Versão suportada |
 |--------------|:----------------:|
