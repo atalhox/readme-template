@@ -85,9 +85,3 @@ Eu sou o Luis Felipe Brum, desenvolvedor Backend, com experiência em segurança
 | Colaborador   | Github |
 |--------------|:----------------:|
 | Luis Felipe Brum | [atalhox](https://github.com/atalhox) |
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺
-* Agradecer publicamente 🤓.
